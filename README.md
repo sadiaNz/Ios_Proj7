@@ -25,8 +25,9 @@ The following **additional** features are implemented:
 - [x] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-##Gif:
+##Gif 1:
 https://imgur.com/a/Nj2bxB3.gif
+##Gif 2:
 https://imgur.com/YD7Si2p.gif
 
 
